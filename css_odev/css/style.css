@@ -67,3 +67,39 @@ body{
     color: white;
     display: inline-block;
 }
+.urunler1{
+    display: inline-block;
+    position: relative;
+    margin:0 20px;
+}
+.urunler1>img{
+    margin:0 20px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+.urunler1>a{
+    /* text-align: center; */
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-right: 40px;
+    padding-left: 120px; 
+}
+.urunler2{
+    display: inline-block;
+    position: relative;
+    margin:0 20px;
+}
+.urunler2>img{
+    margin:0 20px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+.urunler2>a{
+    /* text-align: center; */
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-right: 40px;
+    padding-left: 150px; 
+}
