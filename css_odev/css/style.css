@@ -103,3 +103,13 @@ body{
     margin-right: 40px;
     padding-left: 150px; 
 }
+.hakkimizda{
+    width: 700px;
+    text-align: center;
+    align-items: center;
+    background-color: #B2B1B9;
+    /* display: flex;             */
+    justify-content: center; 
+    margin: auto;
+
+}
