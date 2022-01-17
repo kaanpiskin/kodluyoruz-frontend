@@ -111,5 +111,24 @@ body{
     /* display: flex;             */
     justify-content: center; 
     margin: auto;
+}
+.iletisim{
+    width: 300px;
+    height: 200px;
+    background-color: #B2B1B9;
+    align-items: center;
+    margin: auto;
+    padding-top: 5px;
+
+}
+.iletisim>ul>li>a{
+    color: white;
+    text-decoration:none;
+    display: inline-block;
+    list-style-position: inside;
+    text-align: center;
+    font-size: 23px;
+    padding:5px;
+
 
 }
